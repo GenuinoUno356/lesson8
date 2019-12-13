@@ -1,0 +1,35 @@
+.topLine{
+background-color: #0B566A;
+  text-align: center;
+
+}
+
+.bottomLine{
+  max-width:500px;
+  position: absolute;
+  left: 0px;
+}
+
+table{
+  border-collapse: collapse;
+}
+table, th{
+  border: 1px solid black;
+  background-color: #D35606;
+
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.yes{
+font-size: 50px;
+padding: 50px 100px 50px 100px;
+}
+
+.lastLine{
+  margin-right: 100px;
+  background-color: #2BC214;
+}
